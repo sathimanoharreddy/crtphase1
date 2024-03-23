@@ -1,0 +1,54 @@
+class car:
+    def__init__(self):
+    self.cgst=5555
+    self.sgst=5555
+    self.insurance=5555
+def company(self):
+    while true:
+        print("toyota,mercedes")
+        self.n=input("enter the car company")
+        if self.n=="toyata":
+            print("welcome to toyo")
+            self.mode1()
+            break
+        elif self.n=="mercedes":
+            print('welcome to marc')
+            self.modei()
+            break
+        else:
+            print("enter valid company")
+def modei(self):
+    if self.n=="toyota":
+        while true:
+            print("select from fortuner and lc")
+            self.choice=input("enter the car")
+            if self.choice=="fortuner"
+            self.price(self,choice)
+            break
+        else:
+            print("enter value")
+    elif self.n=="mercedes":
+        while true:
+            print("select from amg and gw")
+            self.choose=input("enter the car")
+            if self.choice=="amg":
+                self.price(self.choice)
+                break
+            else:
+                print("enter value")
+def price(self,choice):
+    if choice=="fortuner":
+        self.p=4500000
+    elif choice=="lc":
+        self.p=10500000
+    elif choice=="amg":
+        self.p=250000000
+    elif choice=="gw":
+        self.p=300000000
+    tot_p=selp.p+self.sgst+self.cgst+self.insurance
+    print(toT_P)
+    
+
+
+
+
